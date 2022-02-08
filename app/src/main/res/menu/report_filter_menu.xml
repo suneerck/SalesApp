@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mAll"
+        android:title="ALL"/>
+
+    <item
+        android:id="@+id/mA"
+        android:title="A"/>
+    <item
+        android:id="@+id/mB"
+        android:title="B"/>
+    <item
+        android:id="@+id/mC"
+        android:title="C"/>
+    <item
+        android:id="@+id/mAB"
+        android:title="AB"/>
+    <item
+        android:id="@+id/mAC"
+        android:title="AC"/>
+    <item
+        android:id="@+id/mBC"
+        android:title="BC"/>
+    <item
+        android:id="@+id/mSuper"
+        android:title="SUPER"/>
+    <item
+        android:id="@+id/mBoxx"
+        android:title="BOXX"/>
+    <item
+        android:id="@+id/mBobSu"
+        android:title="BOX-SU"/>
+
+</menu>
